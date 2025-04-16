@@ -1,0 +1,31 @@
+Initializing Geca logs
+15:28:27 Command: Obstacle encountered, Restarting at initial position on initial starting grid
+16:12:02 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+16:15:10 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+16:17:14 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+16:26:01 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+19:11:05 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+19:17:34 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+21:35:54 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+21:40:31 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+21:58:51 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+21:58:51 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:00:20 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:02:46 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:02:58 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:03:32 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:04:06 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:04:36 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:06:10 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:06:19 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:06:41 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:06:41 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:07:57 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:08:15 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:09:16 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:11:20 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:11:20 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:11:29 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:11:29 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:14:08 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
+22:14:35 Command: Obstacle encountered, Restarting at starting position on the initial starting grid

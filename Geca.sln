@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geca", "Geca\Geca.csproj", "{4D373B47-F4F5-460B-9E28-E970BEA2ED9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{34E35E5C-90E5-4207-AA25-E3B82BBE9DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D373B47-F4F5-460B-9E28-E970BEA2ED9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D373B47-F4F5-460B-9E28-E970BEA2ED9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D373B47-F4F5-460B-9E28-E970BEA2ED9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D373B47-F4F5-460B-9E28-E970BEA2ED9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E35E5C-90E5-4207-AA25-E3B82BBE9DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E35E5C-90E5-4207-AA25-E3B82BBE9DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E35E5C-90E5-4207-AA25-E3B82BBE9DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E35E5C-90E5-4207-AA25-E3B82BBE9DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

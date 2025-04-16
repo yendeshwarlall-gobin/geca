@@ -1,0 +1,2 @@
+Initializing Geca logs
+22:30:53 Command: Obstacle encountered, Restarting at starting position on the initial starting grid
